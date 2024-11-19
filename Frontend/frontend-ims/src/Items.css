@@ -1,0 +1,35 @@
+ /* .products{
+    display:flex;
+    flex-wrap: wrap;
+    flex: 1 1 1px;
+    padding: 5%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/* .products>* {
+    flex: 1 1 50px;
+  } */ 
+
+  .mainProducts{
+    background-color: white;
+  }
+
+  .products{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: space-between;
+    border: 5px solid;
+    background-color: white;
+   
+   
+    
+  }
+  .products>* {
+    flex: 0 0 20%;
+   }
+
+   
+  

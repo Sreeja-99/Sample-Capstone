@@ -1,0 +1,80 @@
+[
+    {
+      "id":1,
+      "name": "Books",
+      "price": 15.99,
+      "image": "https://as1.ftcdn.net/v2/jpg/02/07/32/76/1000_F_207327667_QjhkuuFQsP6iIowsVC0iF2rxxR5PJdTZ.jpg"
+    },
+    {
+      "id":2,
+      "name": "Mechanical Keyboard",
+      "price": 49.99,
+      "image": "https://media.officedepot.com/images/f_auto,q_auto,e_sharpen,h_450/products/532279/532279_o01_083022/532279"
+    },
+    {
+      "id":3,
+      "name": "USB-C Charger",
+      "price": 19.99,
+      "image": "https://via.placeholder.com/150?text=USB-C+Charger"
+    },
+    {
+      "id":4,
+      "name": "Bluetooth Speaker",
+      "price": 29.99,
+      "image": "https://via.placeholder.com/150?text=Bluetooth+Speaker"
+    },
+    {
+      "id":5,
+      "name": "Gaming Headset",
+      "price": 39.99,
+      "image": "https://via.placeholder.com/150?text=Gaming+Headset"
+    },
+    {
+      "id":6,
+      "name": "4K Monitor",
+      "price": 299.99,
+      "image": "https://via.placeholder.com/150?text=4K+Monitor"
+    },
+    {
+      "id":7,
+      "name": "External Hard Drive",
+      "price": 89.99,
+      "image": "https://via.placeholder.com/150?text=External+Hard+Drive"
+    },
+    {
+      "id":8,
+      "name": "Webcam",
+      "price": 24.99,
+      "image": "https://via.placeholder.com/150?text=Webcam"
+    },
+    {
+      "id":9,
+      "name": "Smartphone Stand",
+      "price": 10.99,
+      "image": "https://via.placeholder.com/150?text=Smartphone+Stand"
+    },
+    {
+      "id":10,
+      "name": "Portable SSD",
+      "price": 119.99,
+      "image": "https://via.placeholder.com/150?text=Portable+SSD"
+    },
+    {
+      "id":11,
+      "name": "Noise Cancelling Headphones",
+      "price": 199.99,
+      "image": "https://via.placeholder.com/150?text=Noise+Cancelling+Headphones"
+    },
+    { "id":12,
+      "name": "Smartwatch",
+      "price": 149.99,
+      "image": "https://via.placeholder.com/150?text=Smartwatch"
+    },
+    {
+      "id":13,
+      "name": "Tablet",
+      "price": 249.99,
+      "image": "https://via.placeholder.com/150?text=Tablet"
+    }
+  ]
+  

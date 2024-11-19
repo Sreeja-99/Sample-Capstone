@@ -1,0 +1,41 @@
+.head{
+    display:flex;
+    justify-content: space-around;
+    background-color: white;
+    /* padding: 10px 20px; */
+}
+.logo-appName{
+    display: flex;
+    align-items: center;
+    color: #800000;
+    /* justify-content: space-around; */
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.cart{
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
+.pre-login, .post-login {
+    display: flex;
+    align-items: center; /* Align login/register/logout vertically in the center */
+}
+
+.pre-login a, .post-login a {
+    margin-left: 15px; /* Add space between links */
+    /* text-decoration: none; */
+    /* color: #800000; */
+}
+
+.pre-login a:hover, .post-login a:hover {
+    color: #555555; /* Optional: change color on hover */
+}

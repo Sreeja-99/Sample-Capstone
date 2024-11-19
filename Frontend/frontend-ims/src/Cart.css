@@ -1,0 +1,89 @@
+/* General cart page styling */
+.cart-page {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 2%;
+    border: 5px solid;
+    border-radius: 15px;
+    border-color: black;
+    font-size: 20px;
+    color: maroon;
+    padding: 20px;
+  }
+  
+  .empty-cart {
+    font-size: 15px;
+    color: red;
+  }
+  
+  /* Cart items container styling */
+  .cart-items {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 2%;
+    font-size: 15px;
+    color: black;
+  }
+  
+  /* Styling for each cart item (title + price) */
+  .cart-item {
+    display: flex;
+    justify-content: space-between;  /* This ensures that title and price are on opposite sides */
+    align-items: center; /* Vertically center the title and price */
+    font-size: 16px;
+    width: 100%;
+    margin-bottom: 10px;  /* Space between each cart item */
+  }
+  
+  /* Styling for the title (product name) */
+  .cart-item .title {
+    flex: 1;  /* Allow title to take up available space */
+    text-align: left; /* Align title to the left */
+  }
+  
+  /* Styling for the price */
+  .cart-item .price {
+    text-align: right; /* Align price to the right */
+    margin-left: 20px; /* Space between the title and the price */
+  }
+  
+  /* Button styling */
+  .checkout {
+    background-color: maroon;
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    width: 100%;
+    transition: background-color 0.3s ease;
+  }
+  
+  .checkout:disabled {
+    background-color: grey;
+    cursor: not-allowed;
+  }
+  
+  /* Error message styling */
+  .error {
+    color: red;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  
+  /* Success or other message styling */
+  .message {
+    color: green;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+
+  .total{
+    font-style: italic;
+    color: darkblue;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  

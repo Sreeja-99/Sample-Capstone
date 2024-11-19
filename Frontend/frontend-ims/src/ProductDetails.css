@@ -1,0 +1,37 @@
+.image-details{
+    /* display: flex; */
+    padding: 5px;
+    margin: 10px;
+    justify-content: space-between;
+    border: 2px solid;
+   }
+
+   
+
+   
+
+   .image{
+    height: 200px;
+    width: 200px;
+    /* border: 2px solid; */
+   }
+
+   .details{
+    font-size: 15px;
+    font-style: italic;
+    color: #800000;
+   }
+
+   .add-removal{
+    margin-left:75px;
+    margin-right:75px;
+
+    display: flex;
+    justify-content: space-around;
+
+    /* background-color: #800000; */
+   }
+
+  
+
+ 
